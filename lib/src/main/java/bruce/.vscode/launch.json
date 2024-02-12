@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "bruce.lc83.Solution",
+      "projectName": ""
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/xzl/Desktop/leetcode-practice/lib/src/main/java/bruce",
+      "program": "/Users/xzl/Desktop/leetcode-practice/lib/src/main/java/bruce/build/Debug/outDebug"
+    }
+  ]
+}
